@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CTQM-SEO-TEST/static/css/main.30108be0.css",
+    "main.js": "/CTQM-SEO-TEST/static/js/main.848f37d0.js",
+    "static/js/787.f055211e.chunk.js": "/CTQM-SEO-TEST/static/js/787.f055211e.chunk.js",
+    "static/media/ctqm-logo-2.png": "/CTQM-SEO-TEST/static/media/ctqm-logo-2.b9694b7482c0e2585616.png",
+    "index.html": "/CTQM-SEO-TEST/index.html",
+    "main.30108be0.css.map": "/CTQM-SEO-TEST/static/css/main.30108be0.css.map",
+    "main.848f37d0.js.map": "/CTQM-SEO-TEST/static/js/main.848f37d0.js.map",
+    "787.f055211e.chunk.js.map": "/CTQM-SEO-TEST/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30108be0.css",
+    "static/js/main.848f37d0.js"
+  ]
+}
